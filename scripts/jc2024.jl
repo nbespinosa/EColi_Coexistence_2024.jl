@@ -3,7 +3,7 @@
     using GLPK
     const A = COBREXA.A
     using JSONFBCModels
-    using Gurobi
+    using GLPK
 end
 
 ## .- .-. - -.-- - - -. .. -.- .-.- .-. - --- - .- -.- - 

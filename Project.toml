@@ -10,6 +10,7 @@ JSONFBCModels = "475c1105-d6ed-49c1-9b32-c11adca6d3e8"
 
 [compat]
 julia = "1.6"
+COBREXA = "2.3.1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
